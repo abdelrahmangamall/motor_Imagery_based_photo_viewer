@@ -3,3 +3,5 @@
 •	     Developed a machine learning project to classify EEG data, involving data loading, preprocessing, feature extraction and selection, model training, and evaluation.
 
 •	    Created a GUI application using Flutter to predict and control the movement of an image based on the trained Random Forest model's predictions.
+
+Report Link : https://drive.google.com/file/d/1nlKH1dyoNrUB9i8kNVa22YKHWn8TSuvK/view?usp=drive_link
